@@ -1,0 +1,7 @@
+transporter_id,transporter_name,contract_type,fleet_category
+TRP01,Alpha Logistics,Contract,Large Fleet
+TRP02,Bharat Roadways,Contract,Medium Fleet
+TRP03,CityLink Transport,Spot,Medium Fleet
+TRP04,Eastern Cargo Movers,Contract,Large Fleet
+TRP05,FastTrack Carriers,Spot,Small Fleet
+TRP06,National Freight Services,Contract,Large Fleet

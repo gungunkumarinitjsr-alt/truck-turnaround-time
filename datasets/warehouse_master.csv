@@ -1,0 +1,5 @@
+warehouse_id,warehouse_name,city,region,number_of_docks
+WH01,Jamshedpur Central Warehouse,Jamshedpur,East,4
+WH02,Ranchi Distribution Warehouse,Ranchi,East,3
+WH03,Kolkata Regional Warehouse,Kolkata,East,5
+WH04,Patna Distribution Warehouse,Patna,East,3

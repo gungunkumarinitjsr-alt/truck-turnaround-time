@@ -1,0 +1,16 @@
+dock_id,warehouse_id,dock_name,dock_type
+WH01_D01,WH01,Dock 01,Inbound
+WH01_D02,WH01,Dock 02,Outbound
+WH01_D03,WH01,Dock 03,Inbound
+WH01_D04,WH01,Dock 04,Outbound
+WH02_D01,WH02,Dock 01,Inbound
+WH02_D02,WH02,Dock 02,Outbound
+WH02_D03,WH02,Dock 03,Inbound
+WH03_D01,WH03,Dock 01,Inbound
+WH03_D02,WH03,Dock 02,Outbound
+WH03_D03,WH03,Dock 03,Inbound
+WH03_D04,WH03,Dock 04,Outbound
+WH03_D05,WH03,Dock 05,Inbound
+WH04_D01,WH04,Dock 01,Inbound
+WH04_D02,WH04,Dock 02,Outbound
+WH04_D03,WH04,Dock 03,Inbound
